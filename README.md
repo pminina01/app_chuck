@@ -10,10 +10,13 @@ Link to download apk: https://drive.google.com/file/d/1ucbJEUHjy9KSNEglPq6nHT3Ql
 Screenshoots:
 
 Main page:
+
 ![img.png](img.png)
 
 Joke page:
+
 ![img_2.png](img_2.png)
 
 Info page:
+
 ![img_1.png](img_1.png)
